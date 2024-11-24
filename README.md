@@ -12,8 +12,6 @@ I started coding in 2021. Free courses from YouTube. But still, I took courses a
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I love simracing
 
-<a href="https://www.github.com/tilekdevs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tilekdevs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
