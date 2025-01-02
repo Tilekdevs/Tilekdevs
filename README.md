@@ -6,8 +6,8 @@ I started coding in 2021. Free courses from YouTube. But still, I took courses a
 * 🌍  I'm based in Kyrgyzstan
 * ✉️  You can contact me at [gchncbv@gmail.com](mailto:gchncbv@gmail.com)
 * 🧠  I'm learning TypeScript and Node.js
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I love simracing
+* 🤝  I'm open to collaborating on projects
+* ⚡  I love simracing and cars
 
 
 ### Skills
