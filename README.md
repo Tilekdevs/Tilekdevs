@@ -1,7 +1,7 @@
 Frontend developer
 ------------------
 
-I started coding in 2021. Free courses from YouTube. But still, I took courses and received a certificate and now I’m self-training to become a Full-Stack developer)
+I started coding in 2021. Free courses from YouTube. But still, I took courses and received a certificate and now I’m self-training to become a Full-Stack developer).
 
 * 🌍  I live in Kyrgyzstan
 * ✉️  You can contact me at [gchncbv@gmail.com](mailto:gchncbv@gmail.com)
