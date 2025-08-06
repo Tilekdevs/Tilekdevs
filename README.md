@@ -7,7 +7,7 @@ I started coding in 2020. Free courses from YouTube. But still, I took courses a
 * ✉️  You can contact me at [gchncbv@gmail.com](mailto:gchncbv@gmail.com)
 * 🧠  I'm learning TypeScript and Node.js
 * 🤝  I'm open to collaborating on projects
-* ⚡  I love mountain tourism and cars
+* ⚡  I love travel and cars
 
 
 ### Skills
